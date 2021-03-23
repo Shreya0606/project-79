@@ -13,7 +13,7 @@ body{
   
   .topnav a {
 	float: left;
-	color: black;
+	color: #f2f2f2;
 	font-family: cursive;
 	text-align: center;
 	padding: 14px 16px;
@@ -44,7 +44,7 @@ body{
 	float: right;
 	width: 50%;
 	padding: 160px;
-	color:black;
+	color: honeydew;
 	font-size: 25px;
 	font-family: cursive;
   }
@@ -70,7 +70,7 @@ body{
 	float: left;
 	width: 80%;
 	padding: 5px;
-	color: black;
+	color: honeydew;
 	font-size: 25px;
 	font-family: cursive;
   }
